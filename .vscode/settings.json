@@ -1,0 +1,24 @@
+{
+    "github.codespaces.connectionType": "any",
+    "githubIssues.ignoreUserCompletionTrigger": [
+        "python",
+        "remote "
+    ],
+    "githubIssues.ignoreCompletionTrigger": [
+        "coffeescript",
+        "diff",
+        "dockerfile",
+        "dockercompose",
+        "ignore",
+        "ini",
+        "julia",
+        "makefile",
+        "remote ",
+        "powershell",
+        "python",
+        "r",
+        "ruby",
+        "shellscript",
+        "yaml"
+    ]
+}
